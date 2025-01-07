@@ -21,7 +21,7 @@ public class Calculator{
        int a  = s.nextInt();
        int b = s.nextInt();
        addition(a,b);
-       substraction(a,b);
+       subtraction(a,b);
        multiplication(a,b);
        division(a,b);
        
