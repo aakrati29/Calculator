@@ -10,6 +10,10 @@ public class Calculator{
   public static void multiplication(int a, int b){
         System.out.println(a*b);
 
+}
+  public static void division(int a, int b){
+        System.out.println(a/b);
+
       }
   
     public static void main(String [] args){
